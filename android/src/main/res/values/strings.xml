@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="title_activity_login">Allium</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="placeholder_username">Username</string>
+    <string name="placeholder_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="save">Save</string>
+    <string name="add_new_contact_title">Add contact</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="contact_list_title">Contacts</string>
+    <string name="add_contact_hint">Contact Name</string>
+    <string name="usernameHint">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="passwordRepeatHint">Password repeat</string>
+    <string name="title_activity_register">Register</string>
+    <string name="successfulRegistration">Registration successful!</string>
+    <string name="takenUsernameRegistration">Registration failed: this username is already in use</string>
+    <string name="failedRegistration">Registration failed due to unknown reasons</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="login_exception_message">Something went wrong while logging in, please try again later</string>
+    <string name="login_username_password_invalid_msg">Username or password not valid</string>
+    <string name="takenUsername">taken</string>
+    <string name="errorRegistrationPasswordRepeat">same</string>
+    <string name="errorRegistrationInvalidUsername">username</string>
+    <string name="errorRegistrationInvalidPassword">password</string>
+    <string name="errorRegistrationUsernameTaken">This username is already taken!</string>
+    <string name="contact_name_empty_error">Username can\'t be empty</string>
+</resources>
